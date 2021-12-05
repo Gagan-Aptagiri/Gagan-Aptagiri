@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Gagan Aptagiri**
 - 👀 I’m interested in _**FullStack Web Development**_
-- 🌱 I’m actively looking for a job in Web Development
+- 🌱 I’m currently working fulltime as an Angular Developer.
 - 💞️ I’m looking to collaborate on Angular, React, Nodejs and/or Java projects
 - 📫 How to reach me gagan.aptagiri@gmail.com
 
